@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CucumberBDD" />
+        <module name="CucumberBDD_Example" />
+        <module name="com.amazon" />
       </profile>
     </annotationProcessing>
   </component>
